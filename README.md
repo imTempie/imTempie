@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **Discord - tempie#1111**
 
-- ⚡ What I like to do: **I like video games, drawing, graphic design...and coding of course**
+- ⚡ What I like to do: **I like gaming, drawing, graphic design...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">

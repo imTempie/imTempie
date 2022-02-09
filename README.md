@@ -21,16 +21,19 @@
 
 <p align="center"> 
   <a href="https://www.w3schools.com/java/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/java.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/java.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/csharp.svg" alt="css3" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/csharp.svg" alt="c#" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-gb/software-download/windows10" target="_blank"> 
+    <img src="  https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/microsoft-windows.svg" alt="windows" width="40" height="40"/> 
   </a> 
 </p>
 

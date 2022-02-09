@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-gb/software-download/windows10" target="_blank"> 
-    <img src="  https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/microsoft-windows.svg" alt="windows" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/microsoft-windows.svg" alt="windows" width="40" height="40"/> 
   </a> 
 </p>
 

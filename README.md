@@ -20,10 +20,10 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/java.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <a href="https://www.w3schools.com/csharp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/csharp.svg" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 

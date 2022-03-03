@@ -29,10 +29,10 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
-  <a href="https://www.microsoft.com/en-gb/software-download/windows10" target="_blank"> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/101422a2467fd45d5ba0f1da6f199c84236d0ec3/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-gb/software-download/windows10" target="_blank"> 
+  <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/101422a2467fd45d5ba0f1da6f199c84236d0ec3/logos/html-5.svg" alt="HTML" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 

@@ -42,6 +42,10 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/microsoft-windows.svg" alt="windows" width="40" height="40"/> 
   </a> 
 </p>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=imTempie&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imTempie&theme=react&layout=compact" />
+</p>
 
 
 ------

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tempie <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A 15 year old, beginner developer from England ☕󠁧󠁢󠁥󠁮󠁧󠁿</h3>
 
-- 🌱 I’m currently learning **Python, Java, C#, HTML, CSS and looking to learn JavaScript in the future* 
+- 🌱 I’m currently learning **Python, Java, C#, HTML, CSS and looking to learn JavaScript in the future**
 - 👯 I’m hope to be able to go into **Software Development** or **Cyber Security**
 
 - 📫 How to reach me: **Discord - tempie#1111**

@@ -22,8 +22,8 @@
   <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/java.svg" alt="java" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/java/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg" alt="java" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/js/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/a0040ee40dfc50f40e9ee72e28bae1d24173d557/svg/csharp.svg" alt="c#" width="40" height="40"/> 
@@ -55,5 +55,5 @@
 
 [imTempie](https://github.com/imTempie)
 
-Last Edited on: 12/03/2022 (DD/MM/YYYY)
+Last Edited on: 21/03/2022 (DD/MM/YYYY)
 ****

@@ -38,6 +38,12 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/101422a2467fd45d5ba0f1da6f199c84236d0ec3/logos/html-5.svg" alt="HTML" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Visual Studio" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-gb/software-download/windows10" target="_blank"> 
@@ -55,5 +61,5 @@
 
 [imTempie](https://github.com/imTempie)
 
-Last Edited on: 31/03/2022 (DD/MM/YYYY)
+Last Edited on: 21/04/2022 (DD/MM/YYYY)
 ****

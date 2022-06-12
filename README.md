@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Python, Java, C#, HTML, CSS and dabbling in JavaScript**
 - 👯 I’m hope to be able to go into **Software Development** or **Cyber Security**
 
-- 📫 How to reach me: **Discord - tempie#1111**
+- 📫 How to reach me: **Discord - tempie#7098**
 
 - ⚡ What I like to do: **I like gaming, drawing, graphic design...and coding of course**
 
@@ -64,5 +64,5 @@
 
 [imTempie](https://github.com/imTempie)
 
-Last Edited on: 23/05/2022 (DD/MM/YYYY)
+Last Edited on: 12/06/2022 (DD/MM/YYYY)
 ****

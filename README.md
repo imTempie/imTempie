@@ -8,14 +8,6 @@
 - 🌐 My website: **<a href="https://imTempie.tempiexd.repl.co/">https://imTempie.tempiexd.repl.co/**</a>
 - ⚡ What I like to do: **I like gaming, drawing, graphic design...and coding of course**
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tempie.gfx/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_tempie)
-  
-</div>
-
 <div align="center">
 </div>
 <h3 align="center">Languages and Tools:</h3>

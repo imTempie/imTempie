@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tempie <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A 17 year old, developer and student from England ☕󠁧󠁢󠁥󠁮󠁧󠁿</h3>
+<h3 align="center">An 18 year old, developer and student from England ☕󠁧󠁢󠁥󠁮󠁧󠁿</h3>
 
 - 🌱 I’m currently learning **Python, Java, C#, C, HTML, CSS and dabbling in JavaScript**
 - 👯 I’m hoping to be able to go into **Software Development** or **Cyber Security**
@@ -55,5 +55,5 @@
 
 [imTempie](https://github.com/imTempie)
 
-Last Edited on: 24/02/2024 (DD/MM/YYYY)
+Last Edited on: 10/06/2024 (DD/MM/YYYY)
 ****
